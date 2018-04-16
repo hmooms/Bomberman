@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{CBE357CD-8059-B89D-D8E6-AE4E0DC4AAF6}|">
+  <MonoDevelop.Ide.ItemProperties.Bomberman_220Starter_220Project PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BombSpawner.cs">
+    <Files>
+      <File FileName="Assets/Explosion.cs" Line="33" Column="46" />
+      <File FileName="Assets/BombSpawner.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
